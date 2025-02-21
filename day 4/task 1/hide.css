@@ -1,0 +1,16 @@
+button{
+    outline-color: rgb(111, 28, 189);
+    background-color: antiquewhite;
+}
+
+hr{
+
+    width: 400px;
+    border: black solid;
+}
+
+img{
+
+    border-radius: 200px;
+    box-shadow: inset;
+}
