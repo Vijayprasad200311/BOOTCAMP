@@ -1,3 +1,4 @@
+task 4: resposive blog
 What I Learned
 While creating this blog post, I learned how to structure content in a way that is engaging and easy to read. I also explored making the design responsive, ensuring that the layout adapts well to different screen sizes.
 
