@@ -1,4 +1,4 @@
-TASK 1: sample product page
+TASK 2: sample product page
 
 WHAT I LEARNING
 Creating this product concept helped me understand how to present information clearly and make it engaging for potential users.
